@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Me chamo Rafael Marroni
+Tenho 27 anos e sou apaixonado por dados e tecnologia. Estou sempre em busca de novos desafios e aprendizados.
 
-<!--
-**marronii/marronii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Formação
+- Pós-graduando em Engenharia e Arquitetura de Dados.
+- Graduado em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+## 🏅 Certificações
+- **AWS Certified Cloud Practitioner**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+![Python](https://camo.githubusercontent.com/75a7cc01abd9d8cee6575e3b4a97f5fb33b117c8159eac1d840cfdce35ebb427/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646)
+![Pandas](https://camo.githubusercontent.com/8b14b9d2099986b81f2faa9f25060168913abe992ce724ab9b58192e94169c58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d70616e6461732d3135303435383f266c6f676f3d70616e646173266c6f676f436f6c6f723d464646464646)
+![Streamlit](https://camo.githubusercontent.com/73e03f7ff2ab667a4b668ec67194b48472067a8bd07995303bc790e5107f6778/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53747265616d6c69742d4646344234423f266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d464646464646)
+![Git](https://camo.githubusercontent.com/dd3c61adf4620d088f24979a2fcf366026458b7ea8bdda0539ba57fc9519c86f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646)
+![Apache Airflow](https://camo.githubusercontent.com/19ac6cfb9a88ce5fdf3dd285548a65092f4c8f0ccfbcfc5ff5d695ab0aed9f18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d417061636865253230416972666c6f772d3031374345453f266c6f676f3d417061636865253230416972666c6f77266c6f676f436f6c6f723d464646464646)
+![Docker](https://camo.githubusercontent.com/8a2e70d425282ca91d9ac81e794d8adf2f16f516736e9de4564abdbff8dc0bf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f266c6f676f3d446f636b6572266c6f676f436f6c6f723d464646464646)
+![Selenium](https://camo.githubusercontent.com/abf73ad4e2bf475cb9004199e356016c320cb084efebf0b3a0e4e8460d03bdaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53656c656e69756d2d3433423032413f266c6f676f3d53656c656e69756d266c6f676f436f6c6f723d464646464646)
+![Lanchain](https://camo.githubusercontent.com/ad568eb78fd53aa28e110f73e916e71ab5b0998d99d5a87d2a708ff50499512f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c616e67636861696e2d3143334333433f266c6f676f3d6c616e67636861696e266c6f676f436f6c6f723d464646464646)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+### ☁️ Cloud Skills
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
