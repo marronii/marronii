@@ -2,10 +2,11 @@
 Tenho 27 anos e sou apaixonado por dados e tecnologia. Estou sempre em busca de novos desafios e aprendizados.
 
 ## 🎓 Formação
-- Pós-graduando em Engenharia e Arquitetura de Dados.
+- Pós-graduado em Engenharia e Arquitetura de Dados.
 - Graduado em Análise e Desenvolvimento de Sistemas.
 
 ## 🏅 Certificações
+- **Microsoft Certified: Azure Data Fundamentals**
 - **AWS Certified Cloud Practitioner**
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
 
